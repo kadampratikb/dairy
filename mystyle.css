@@ -1,0 +1,58 @@
+.nav-item{
+    /* font-size: 30px; */
+    padding: 1rem;
+    /* font-weight: 800; */
+}
+.logo{
+    width: 4rem;
+    border: 1px solid yellow;
+    border-radius: 50%;
+}
+.slogan{
+    font-family: 'Times New Roman', Times, serif;
+    color: #5500ff;
+    /* font-weight: 600; */
+}
+.card-title{
+    /* font-size: 35px; */
+    color: #c737ae;
+    /* font-weight: 600; */
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.card{
+    background-color: #e3b1451f;
+}
+.btn{
+    background-color: #edc960;
+    font-size: 25px;
+   color: #ce1515;
+   font-weight: 500;
+}
+.caed-text{
+    /* font-size: 25px; */
+}
+.ourproduct{
+    /* font-size: 60px;*/
+} 
+.contactcontainer{
+    background-color:#f6d163;
+}
+
+.reviewbtn{
+   background-color: #9efc5d; 
+   color: black;
+}
+
+.card{
+    height: 100%;
+}
+.btn{
+   /* margin-top: 1rem; */
+    margin-bottom: 2rem;
+}
+.carouselm{
+    height: 10rem;
+}
+.aboutp{
+    justify-content: space-between;
+}
