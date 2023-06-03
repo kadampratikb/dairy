@@ -17,4 +17,24 @@ navBar.forEach(function (a){
         navCollapse.classList.remove("show");
     })
 })
+// print
+function printpage(){
+    window.print();
+}
+// Modal
+function update(){
 
+    var select = document.getElementById('formGroupExampleInput4');
+    var price = select.options[select.selectedIndex].value;
+
+    var second_number = (document. getElementById("formGroupExampleInput5"). value);
+
+    var result = price * second_number;
+    document.getElementById("formGroupExampleInput7").value = result;
+
+}
+
+function submit(){
+    //var text='Thank You for your response.';
+    alert("Thank You for your response.");
+}
